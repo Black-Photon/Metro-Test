@@ -1,0 +1,4 @@
+This is an essay I'll be working on, documenting some of the work done on Metro
+
+9th Sept:
+Today I changed up switch. Before we had it save the WIP state of the repo on a commit called WIP, but now it's changed to work in a seperate branch instead!
