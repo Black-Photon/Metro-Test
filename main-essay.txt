@@ -1,4 +1,7 @@
 This is an essay I'll be working on, documenting some of the work done on Metro
 
 9th Sept:
-Today I changed up switch. Before we had it save the WIP state of the repo on a commit called WIP, but now it's changed to work in a seperate branch instead!
+Today I changed up switch. Before we had it save the WIP state of the repo on a commit called WIP, but now it's changed to work in a seperate branch instead
+
+10th Sept:
+Today I wrote patch. Me and Michael had a debate about commenting and terms and eventually finished a working version - you can see in this repo! 'Added test' was patched with an extra file!
