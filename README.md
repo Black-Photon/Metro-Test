@@ -19,3 +19,5 @@ And all the competitors, created one great race.
 
 All across the Galaxy, people came to watch.
 Until eventually one day, a starship came by.
+
+And everything changed
