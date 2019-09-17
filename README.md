@@ -18,3 +18,4 @@ But in the end, there's only one space.
 And all the competitors, created one great race.
 
 All across the Galaxy, people came to watch.
+Until one day
