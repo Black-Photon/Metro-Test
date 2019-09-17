@@ -17,4 +17,4 @@ As it goes BOOM! The ship goes ZOOOOM.
 But in the end, there's only one space.
 And all the competitors, created one great race.
 
-All across the Galaxy
+All across the Galaxy, people all came by.
