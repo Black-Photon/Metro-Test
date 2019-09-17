@@ -12,4 +12,8 @@ Blasted a laser towards the Mooooooon!
 Yes the Moooooooooon!
 
 When the laser hit's in June, you'll all know the tune
+<<<<<<< HEAD
 It's the Mooooooooooon!
+=======
+As it goes BOOM
+>>>>>>> ef4b42a1d268fadeeb6b79fda7d497f2f71e595a
