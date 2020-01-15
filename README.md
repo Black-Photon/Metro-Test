@@ -24,3 +24,5 @@ And everything changed
 and again
 and yet again
 doop
+
+The ship was remarkably small, such that only a half-person could fit inside
