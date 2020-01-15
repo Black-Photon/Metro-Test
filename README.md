@@ -28,3 +28,4 @@ doop
 The ship was remarkably small, such that only a half-person could fit inside
 But inside, was something nobody could have expected
 A time machine!
+This strange contraption was initially hard to understand
