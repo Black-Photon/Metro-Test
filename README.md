@@ -31,4 +31,4 @@ A time machine!
 This strange contraption was initially hard to understand,
 But with enough thought, a specific scientist made sense of it
 
-local mod garbgarbgarb
+local mod garbgarbgarb dingdong singalong
