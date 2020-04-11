@@ -1,3 +1,6 @@
 [submodule "libgit2"]
 	path = libgit2
 	url = https://github.com/libgit2/libgit2
+[submodule "y/Metro"]
+	path = y/Metro
+	url = https://github.com/SiliconSloth/Metro.git
