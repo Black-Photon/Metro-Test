@@ -23,7 +23,7 @@ Until eventually one day, a starship came by.
 And everything changed
 and again
 and yet again
-doop
+doopdigdig
 
 The ship was remarkably small, such that only a half-person could fit inside
 But inside, was something nobody could have expected
