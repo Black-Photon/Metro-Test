@@ -25,6 +25,9 @@ and again
 and yet again
 doop
 
+100% less broing
+300% garb
+
 The ship was remarkably small, such that only a half-person could fit inside
 But inside, was something nobody could have expected
 A time machine!
