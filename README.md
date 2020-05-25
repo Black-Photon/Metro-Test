@@ -6,10 +6,12 @@ Also it's pretty cool
 And it has absorb!
 ...And Sync!
 
-I'm running out of test messages!!!
+I'm running out of test messages!
 
 Blasted a laser towards the Mooooooon!
 Yes the Moooooooooon!
+
+asdfasdfasd   hgjgjgjgjghjgj
 
 When the laser hit's in June, you'll all know the tune
 As it goes BOOM! The ship goes ZOOOOM.
@@ -17,7 +19,7 @@ As it goes BOOM! The ship goes ZOOOOM.
 But in the end, there's only one space.
 And all the competitors, created one great race.
 
-All across the Galaxy, people came to watch.
+All across the Galaxy, people came to watch!
 Until eventually one day, a starship came by.
 
 And everything changed
